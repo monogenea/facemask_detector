@@ -1,3 +1,5 @@
+.vscode
 input/*.mp4
-output/*.mp4
+yolov3/output/*.mp4
+yolov4/output/*.mp4
 
