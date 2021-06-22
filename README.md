@@ -1,7 +1,9 @@
 # Face Mask Detection / Classification
 OpenCV - Applications, Project 3
 
-These notebooks should be run on  **Google Colab** with GPU runtime.
+![](https://raw.githubusercontent.com/monogenea/facemask_detector/master/yolov4_preds/yolov4_test-image3_pred.jpg)
+
+Custom training of YOLOv3 and YOLOv4 to detect bare faces and mask-wearing faces. The Jupyter notebooks were executed on **Google Colab** with a GPU runtime.
 
 ## Video output (links)
 
